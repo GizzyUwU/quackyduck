@@ -19,7 +19,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.1400.4.999",
+    "IDEVersion":"2024.1400.4.1003",
   },
   "name":"Blank Pixel Game",
   "resources":[
@@ -34,6 +34,7 @@
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"id":{"name":"GAYOVER","path":"rooms/GAYOVER/GAYOVER.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"WinnerWinnerYouStinky","path":"rooms/WinnerWinnerYouStinky/WinnerWinnerYouStinky.yy",},},
     {"id":{"name":"get_seconds","path":"scripts/get_seconds/get_seconds.yy",},},
     {"id":{"name":"AssetExploder","path":"sprites/AssetExploder/AssetExploder.yy",},},
@@ -58,6 +59,7 @@
     {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"roomId":{"name":"WinnerWinnerYouStinky","path":"rooms/WinnerWinnerYouStinky/WinnerWinnerYouStinky.yy",},},
     {"roomId":{"name":"GAYOVER","path":"rooms/GAYOVER/GAYOVER.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
